@@ -1,19 +1,85 @@
-# Open Source Audit - [open source linux software]
-**Name:** [sarthak bhatt]  
-**Roll Number:** [24bce11380]
+# 🎬 OSS Audit — VLC Media Player
 
-## Project Description
-An audit and technical analysis of [open source linux software] for the OSS Capstone Project.
+> Open Source Software Audit Project
 
-## Shell Scripts included:
-1. **system_id.sh**: Reports Linux system details and OS license.
-2. **pkg_inspector.sh**: Checks if [Software] is installed and its version.
-3. **disk_audit.sh**: Analyzes directory sizes and permissions.
-4. **log_analyzer.sh**: Searches log files for specific keywords.
-5. **manifesto_gen.sh**: Generates a personal open-source philosophy text file.
+---
+
+##  Student Details
+
+| Field | Details |
+|------|--------|
+| Name | Sarthak Bhatt|
+| Reg No. | 24BCE11380 |
+
+---
+
+##  About Project
+
+This project is an audit of VLC Media Player focusing on:
+- Open source concepts
+- GPL license
+- Linux system usage
+- Shell scripting
+
+---
+
+##  Repository Structure
+
+- README.md
+- project_script1.sh
+- project_script2.sh
+- project_script3.sh
+- project_script4.sh
+- project_script5.sh
+- screenshots/
+- vityarthiOSS_24MEI10024-DHYEY.pdf
+
+---
+
+## Shell Scripts — Output
+
+###  Script 1 — System Information
+
+**Output:**
+![Script 1](screenshots/script1_output.png)
+
+---
+
+###  Script 2 — Package Checker
+
+**Output:**
+![Script 2](screenshots/script2_output.png)
+
+---
+
+###  Script 3 — Directory Audit
+
+**Output:**
+![Script 3](screenshots/script3_output.png)
+
+---
+
+###  Script 4 — Log Analyzer
+
+**Output:**
+![Script 4](screenshots/script4_output.png)
+
+---
+
+###  Script 5 — Manifesto Generator
+
+**Output:**
+![Script 5](screenshots/script5_output.png)
+
+---
 
 ## How to Run
-1. Open your Linux terminal.
-2. Clone this repo: `git clone [Your Repo Link]`
-3. Give execution permission: `chmod +x *.sh`
-4. Run a script: `./system_id.sh`
+
+```bash
+chmod +x project_script*.sh
+
+./project_script1.sh
+./project_script2.sh
+./project_script3.sh
+./project_script4.sh /var/log/syslog error
+./project_script5.sh
