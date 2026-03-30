@@ -1,9 +1,9 @@
-# Open Source Audit - [Your Software Name]
-**Name:** [Your Full Name]  
-**Roll Number:** [Your Registration Number]
+# Open Source Audit - [open source linux software]
+**Name:** [sarthak bhatt]  
+**Roll Number:** [24bce11380]
 
 ## Project Description
-An audit and technical analysis of [Software Name] for the OSS Capstone Project.
+An audit and technical analysis of [open source linux software] for the OSS Capstone Project.
 
 ## Shell Scripts included:
 1. **system_id.sh**: Reports Linux system details and OS license.
